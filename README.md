@@ -3,3 +3,5 @@ Detects the number of faces in a videostream. Made possible with openCV and Haar
 
 This script employs python 2.7, openCV and a Haar Cascade published by Intel.
 The Haar Cascade can be found here: https://github.com/opencv/opencv/tree/master/data/haarcascades
+
+Examples can be seen in 1.png and 2.png
